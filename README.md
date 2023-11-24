@@ -28,7 +28,7 @@ A outra frente, apresentada neste repositório, é um circuito físico que o usu
 
 Dessa forma, o usuário teria um local de apoio e ajuda para seu problema disponível 24 horas, a postos sempre que ele precisar.
 
-<div align=center>
+<div align = center>
 <img src="imagens/Solucao_Proposta.png" widht="200" height="400">
 </div>
   
@@ -36,7 +36,7 @@ ___
 ### Utilização do Arduino:
 Através do Arduino, fomos capazes de desenvovler um circuito que atua na forma de um questionário, que indaga ao usuário questões sobre seu estado atual. O usuário, por sua vez, responde ao questionário através de botões, e as respostas são armazenadas em variáveis no sistema, que são então enviadas para a plataforma IOT Tago, onde sofrem todo um tratamento para exibição em Dashboard e notificação a profissionais da saúde que estejam envolvidos com o usuário em questão.
 
-<img src="imagens/Utilizacao_Arduino.png">
+<img src="imagens/Utilizacao_Arduino.png" widht="200" height="400">
 
 ___
 ### Desenvolvimento do projeto
@@ -48,7 +48,9 @@ Já as simulações dos circuitos de hardware que auxiliariam no projeto, foram 
 ___
 ### Montagem física do projeto
 
-<img src="imagens/Montagem_Fisica.png">
+<div align=center>
+<img src="imagens/Montagem_Fisica.png"></p>
+</div>
 
 Para a montagem física do projeto, será necessário utilizar:
 - Plataforma Wokwi (para reproduzir a simulação exibida [nesta imagem](imagens/Projeto_Tinkercad_Lavoura.png));
