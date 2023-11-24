@@ -36,7 +36,7 @@ ___
 ### Utilização do Arduino:
 Através do Arduino, fomos capazes de desenvovler um circuito que atua na forma de um questionário, que indaga ao usuário questões sobre seu estado atual. O usuário, por sua vez, responde ao questionário através de botões, e as respostas são armazenadas em variáveis no sistema, que são então enviadas para a plataforma IOT Tago, onde sofrem todo um tratamento para exibição em Dashboard e notificação a profissionais da saúde que estejam envolvidos com o usuário em questão.
 
-<img src="imagens/Arduino_Plantacao.png">
+<img src="imagens/Utilizacao_Arduino.png">
 
 ___
 ### Desenvolvimento do projeto
