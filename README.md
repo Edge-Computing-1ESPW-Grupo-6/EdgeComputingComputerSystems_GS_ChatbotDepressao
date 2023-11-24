@@ -39,6 +39,7 @@ Através do Arduino, fomos capazes de desenvovler um circuito que atua na forma 
 <div align=center>
 <img src="imagens/Utilizacao_Arduino.png" widht="200" height="400">
 </div align=center>
+
 ___
 ### Desenvolvimento do projeto
 O projeto foi desenvolvido através de pesquisas por métodos de aplicação da tecnologia na solução, ou amenização, das duas doenças mentais mais comuns na sociedade atual: a Ansidedae e a Depressão.
