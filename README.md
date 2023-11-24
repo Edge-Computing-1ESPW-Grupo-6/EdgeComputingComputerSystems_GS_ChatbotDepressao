@@ -54,10 +54,10 @@ ___
 </div>
 
 Para a montagem física do projeto, será necessário utilizar:
-- Plataforma Wokwi (para reproduzir a simulação exibida [nesta imagem](imagens/Projeto_Tinkercad_Lavoura.png));
-- Programa Arduino IDE (juntamente com o código presente [neste arquivo](codigos/Codigo_Arduino_Lavoura.ino) - anexa também sua [versão em txt](codigos/Codigo_Arduino_Lavoura.txt));
+- Plataforma Wokwi (para reproduzir a simulação exibida [nesta imagem](imagens/Montagem_Fisica.png));
+- Programa Arduino IDE (juntamente com o código presente [neste arquivo](codigos/Codigo_Arduino.ino) - anexa também sua [versão em txt](codigos/Codigo_Arduino.txt));
 - Kit básico de componentes físicos do Arduino, detalhados abaixo:
-<table>
+<table align=center>
   <tr>
     <td><b>Componente</b></td>
     <td align=center><b>Quantidade</b></td>
@@ -88,7 +88,7 @@ Para a montagem física do projeto, será necessário utilizar:
   </tr>
 </table>
 
-Basta agora reproduzir o [modelo do Wokwi](imagens/Projeto_Tinkercad_Lavoura.png) utilizando os combonentes físicos listados. Para execução, é necessário conectar a placa ESP32 a um computador via Micro-USB, inserir o [código de execução](codigos/Codigo_Arduino_Lavoura.ino) no programa Arduino IDE e fazer o upload.
+Basta agora reproduzir o [modelo do Wokwi](imagens/Montagem_Fisica.png) utilizando os combonentes físicos listados. Para execução, é necessário conectar a placa ESP32 a um computador via Micro-USB, inserir o [código de execução](codigos/Codigo_Arduino.ino) no programa Arduino IDE e fazer o upload.
 
 _*Atenção: A placa ESP32 e o display OLED não fazem parte do kit de componentes básicos do Arduino, e devem ser adquiridos separadamente._
 ___
