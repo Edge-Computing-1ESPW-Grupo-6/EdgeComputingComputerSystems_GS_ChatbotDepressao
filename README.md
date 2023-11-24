@@ -50,7 +50,7 @@ ___
 ### Montagem física do projeto
 
 <div align=center>
-<img src="imagens/Montagem_Fisica.png"></p>
+<img src="imagens/Montagem_Fisica.png" widht="200" height="400"></p>
 </div>
 
 Para a montagem física do projeto, será necessário utilizar:
