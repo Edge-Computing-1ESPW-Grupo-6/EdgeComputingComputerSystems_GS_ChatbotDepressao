@@ -48,7 +48,7 @@ Já as simulações dos circuitos de hardware que auxiliariam no projeto, foram 
 ___
 ### Montagem física do projeto
 
-<img src="imagens/Projeto_Tinkercad_Lavoura.png">
+<img src="imagens/Montagem_Fisica.png">
 
 Para a montagem física do projeto, será necessário utilizar:
 - Plataforma Wokwi (para reproduzir a simulação exibida [nesta imagem](imagens/Projeto_Tinkercad_Lavoura.png));
@@ -86,6 +86,8 @@ Para a montagem física do projeto, será necessário utilizar:
 </table>
 
 Basta agora reproduzir o [modelo do Wokwi](imagens/Projeto_Tinkercad_Lavoura.png) utilizando os combonentes físicos listados. Para execução, é necessário conectar a placa ESP32 a um computador via Micro-USB, inserir o [código de execução](codigos/Codigo_Arduino_Lavoura.ino) no programa Arduino IDE e fazer o upload.
+
+_*Atenção: A placa ESP32 e o display OLED não fazem parte do kit de componentes básicos do Arduino, e devem ser adquiridos separadamente._
 ___
 ### Pré-requisitos 
 Para execução do projeto é necessário conhecimento sobre o uso da plataforma Wokwi, e experiência com o uso do programa Arduino e de seus componentes físicos. É necessário também saber usos básicos da linguagem C++ para entendimento do código e ajustes necesários.
