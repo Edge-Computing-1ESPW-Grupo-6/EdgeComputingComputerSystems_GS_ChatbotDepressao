@@ -89,9 +89,10 @@ Para a montagem física do projeto, será necessário utilizar:
   </tr>
 </table>
 
-Basta agora reproduzir o [modelo do Wokwi](imagens/Montagem_Fisica.png) utilizando os combonentes físicos listados. Para execução, é necessário conectar a placa ESP32 a um computador via Micro-USB, inserir o [código de execução](codigos/Codigo_Arduino.ino) no programa Arduino IDE e fazer o upload.
+Basta agora reproduzir o [modelo do Wokwi](imagens/Montagem_Fisica.png) utilizando os combonentes físicos listados. Para execução, é necessário conectar a placa ESP32 a um computador via Micro-USB, inserir o [código de execução](codigos/Codigo_Arduino.ino)** no programa Arduino IDE e fazer o upload.
 
 _*Atenção: A placa ESP32 e o display OLED não fazem parte do kit de componentes básicos do Arduino, e devem ser adquiridos separadamente._
+_**Atenção: o código contém duas variáveis que devem ser austadas a reproduzir o projeto: YOUR_TOKEN (deve ser inserido o token do disapositivo utilizado na tago) e YOUR_TOPIC (deve ser inserido o tópico utilizado na action da Tago para recebimento de dados via MQTT, e repetido em todas as variáveis enviadas)._
 ___
 ### Configuração Tago
 A configuração da plataforma Tago para receber os dados enviados pelo programa, e encaminhar para o profissional de saúde que esteja relacionado ao cuidado do usuário, é feita através de algumas etapas:
