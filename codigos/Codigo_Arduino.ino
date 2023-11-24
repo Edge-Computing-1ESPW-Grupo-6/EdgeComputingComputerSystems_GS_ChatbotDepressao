@@ -9,7 +9,7 @@ EspMQTTClient client{
   "",     // Senha do wifi
   "mqtt.tago.io",  // Endereço do servidor
   "Default",       // Usuario
-  "81ad26f3-d9a3-4b7b-b56b-89360e69be12",         // Token do device
+  "YOUR_TOKEN",         // Token do device
   "esp",           // Nome do device
   1883             // Porta de comunicação
 };
@@ -171,21 +171,21 @@ void loop() {
     doc["variable"] = "Problema";
     doc["value"] = problema;
     serializeJson(doc, bufferJson);
-    client.publish("topicoEngSoft", bufferJson);
+    client.publish("YOUR_TOPIC", bufferJson); // Topic for pushing info to TAGO
     client.loop();
     delay(3000);
 
     doc["variable"] = "Crise";
     doc["value"] = crise;
     serializeJson(doc, bufferJson);
-    client.publish("topicoEngSoft", bufferJson);
+    client.publish("YOUR_TOPIC", bufferJson); // Topic for pushing info to TAGO
     client.loop();
     delay(3000);
 
     doc["variable"] = "ExecucoesSemanais";
     doc["value"] = exec_semanal;
     serializeJson(doc, bufferJson);
-    client.publish("topicoEngSoft", bufferJson);
+    client.publish("YOUR_TOPIC", bufferJson); // Topic for pushing info to TAGO
     client.loop();
     delay(3000);
 
