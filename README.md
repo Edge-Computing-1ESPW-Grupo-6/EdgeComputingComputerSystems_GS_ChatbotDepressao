@@ -102,7 +102,7 @@ A configuração da plataforma Tago para receber os dados enviados pelo programa
 
 #### Construção de Dashboard informativo
 <div align=center>
-<img src="imagens/dashboard.png"  widht="200" height="400">
+<img src="imagens/dashboard_png.png"  widht="200" height="400">
 </div>
 
 #### Action para envio de notificação ao profissional de saúde
