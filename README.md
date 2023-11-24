@@ -1,5 +1,5 @@
 ## Global Solution 2º Semestre - Edge Computing and Computer Systems
-![Badge Concluido](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN)
+![Badge Concluido](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN) 
 
 **Nomes + RM dos integrantes:**
 - Matheus Motta - 550352
