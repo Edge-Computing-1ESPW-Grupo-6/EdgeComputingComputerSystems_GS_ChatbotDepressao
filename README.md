@@ -93,6 +93,25 @@ Basta agora reproduzir o [modelo do Wokwi](imagens/Montagem_Fisica.png) utilizan
 
 _*Atenção: A placa ESP32 e o display OLED não fazem parte do kit de componentes básicos do Arduino, e devem ser adquiridos separadamente._
 ___
+### Configuração Tago
+A configuração da plataforma Tago para receber os dados enviados pelo programa, e encaminhar para o profissional de saúde que esteja relacionado ao cuidado do usuário, é feita através de algumas etapas:
+#### Action para recebimento de dados via MQTT
+<div align=center>
+<img src="imagens/tago_mqtt.png"  widht="200" height="400">
+</div>
+
+#### Construção de Dashboard informativo
+<div align=center>
+<img src="imagens/dashboard.png"  widht="200" height="400">
+</div>
+
+#### Action para envio de notificação ao profissional de saúde
+Esta action é a que mais pode variar de caso a caso, podendo ser desde uma notificação dentro da própria plataforma Tago, até o envio das informações por email. É necessário ajustar de acordo com a necessidade de cada caso.
+<div align=center>
+<img src="imagens/notificacao.png"  widht="200" height="400">
+</div>
+
+___
 ### Pré-requisitos 
 Para execução do projeto é necessário conhecimento sobre o uso da plataforma Wokwi, e experiência com o uso do programa Arduino e de seus componentes físicos. É necessário também saber usos básicos da linguagem C++ para entendimento do código e ajustes necesários.
 ___
@@ -105,6 +124,6 @@ O objetivo do nosso projeto é garantir que as pessoas que enfrentam diariamente
 
 ___
 ### Links Referênciais
-  [Link para o vídeo explicativo do projeto no Google Drive](https://drive.google.com/file/d/1JKsdRvCdB2q_VMbhZHf62jj5Rhz8u8Bt/view?usp=sharing)
+  [Link para o vídeo explicativo do projeto no Google Drive](https://drive.google.com/file/d/1FRL0DYbdf_lZA3VVLezCz0-VFfhisSBV/view?usp=sharing)
   
   [Link para projeto completo do sistema no Wokwi](https://wokwi.com/projects/382139721408724993)
