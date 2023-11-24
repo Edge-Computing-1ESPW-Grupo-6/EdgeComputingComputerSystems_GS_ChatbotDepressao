@@ -91,9 +91,7 @@ ___
 Para execução do projeto é necessário conhecimento sobre o uso da plataforma Wokwi, e experiência com o uso do programa Arduino e de seus componentes físicos. É necessário também saber usos básicos da linguagem C++ para entendimento do código e ajustes necesários.
 ___
 ### Resultados esperados e impactos:
-O objetivo do nosso projeto é garantir que as pessoas que enfrentam diariamente os disturbios montais mencionados, e garantir uma oportunidade de tratamento e melhora para essas pessoas. Dessa forma, um estilo de vida mais saudável e agradável passa a ser acessível a uma parcela maior da população.
-
-O objetivo da solução que idealizamos é melhor ilustrar a respeito da situação da fome em diferentes regiões, e informar adequadamente os agentes responsáveis por ajudar nesta causa, como ONGs e órgãos públicos, de modo que as ações sociais voltadas ao problema sejam mais eficientes e, consequentemente, a fome seja combatida de melhor forma, com as regiões mais necessitadas recebendo um auxílio adequado para sua situação
+O objetivo do nosso projeto é garantir que as pessoas que enfrentam diariamente os disturbios montais mencionados, e garantir uma oportunidade de tratamento e melhora para essas pessoas. Dessa forma, um estilo de vida mais saudável e agradável passa a ser acessível a uma parcela maior da população, caminhando assim para uma melhor qualidade de vida em geral.
 
 <div align=center>
 <img src="imagens/Resultados_Esperados.png"  widht="200" height="400">
@@ -103,6 +101,4 @@ ___
 ### Links Referênciais
   [Link para o vídeo explicativo do projeto no Google Drive](https://drive.google.com/file/d/1JKsdRvCdB2q_VMbhZHf62jj5Rhz8u8Bt/view?usp=sharing)
   
-  [Link para projeto completo do sistema de monitoramento de lavoura no Tinkercad](https://www.tinkercad.com/things/6uTXEucWTuQ?sharecode=RMWx58ar_Whe7_91iB_0qKqRf0W010BUapQFVVjEeeo)
-  
-  [Link para projeto completo do sistema de verificação de estoque no Tinkercad](https://www.tinkercad.com/things/geOhexWHpS9?sharecode=BIoCpqW3dmfEDWlKwqCt5g-eHpTiZguKVU_gv1iYtxQ)
+  [Link para projeto completo do sistema no Wokwi](https://wokwi.com/projects/382139721408724993)
