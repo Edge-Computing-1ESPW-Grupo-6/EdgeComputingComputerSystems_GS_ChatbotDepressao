@@ -1,0 +1,21 @@
+	Este é o vídeo explicativo a respeito do 2º checkpoint da matéria de Edge computing & computer systems, ainda sobre o 
+	case da vinheria.
+	Nesta etapa, após mostrarmos o primeiro protótipo para os donos da vinheria e recebermos feedbacks positivos, recebemos novas
+	solicitações de implementações, de modo que o circuito não só fizesse as medições de luminosidade, mas também de umidade e 
+	temperatura do ambiente.
+	Para isso, utilizamos como base nosso primeiro protótipo que fazia a medição do nível de luminosidade através de um sensor LDR
+	E exibia esses níveis através de três cores de led, bem como de uma buzina, em casos de alta luminosidade.
+	Nesta base, acrecentamos um sensor DHT11 para medir temperatura e umidade. Porém, como este componete não está disponível
+	na plataforma de testes utilizada, nela vocês irão encontrar um circuito utilizando de um potênciometro para simular a umidade
+	e um sensor TMP36 para a temperatura. Estes dois sensores também traduzem suas medidas através do acionamento da mesma buzina
+	já instalada, e de dois novos leds.
+	Há também uma nova parte vital do circuito que é o display LCD que instalamos, com o objetivo de traduzir as leituras dos
+	sensores em texto. Foi justamente na instalação deste display que surgiram nossas maiores dificuldades.
+	Como poderíamos fazer para que o sensor traduzisse, de forma coesa e prática, as leituras do LDR e do DHT11, ou, potenciômetro
+	e TMP36 no caso dos testes?
+	Para solucionar este problema, fomos atrás de fontes como outros projetos que fizessem uso destes componentes, separada ou
+	simultaneamente, bem como da ajuda de inteligências artificiais como o ChatGPT e do apoio do professor de sala de aula.
+	Assim, conseguimos contornar estas complicações, e elaborar um circuito que funcionasse da maneira desejada.
+	Mais detalhes sobre o projeto, bem como de sua replicação e execução, podem sem encontrados no arquivo Readme do repositório no 
+	Github. Sinta-se livre também para contatar os desenvolvedores do projeto em caso de qualquer dúvida.
+	Muito obrigado por visitar nosso projeto!
