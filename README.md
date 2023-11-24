@@ -36,8 +36,9 @@ ___
 ### Utilização do Arduino:
 Através do Arduino, fomos capazes de desenvovler um circuito que atua na forma de um questionário, que indaga ao usuário questões sobre seu estado atual. O usuário, por sua vez, responde ao questionário através de botões, e as respostas são armazenadas em variáveis no sistema, que são então enviadas para a plataforma IOT Tago, onde sofrem todo um tratamento para exibição em Dashboard e notificação a profissionais da saúde que estejam envolvidos com o usuário em questão.
 
+<div align=center>
 <img src="imagens/Utilizacao_Arduino.png" widht="200" height="400">
-
+</div align=center>
 ___
 ### Desenvolvimento do projeto
 O projeto foi desenvolvido através de pesquisas por métodos de aplicação da tecnologia na solução, ou amenização, das duas doenças mentais mais comuns na sociedade atual: a Ansidedae e a Depressão.
